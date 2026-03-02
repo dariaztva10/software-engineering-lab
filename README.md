@@ -1,5 +1,3 @@
-<img width="457" height="734" alt="image" src="https://github.com/user-attachments/assets/a5e97049-8d73-498f-a53e-fb6b7055c5fa" /># Software Engineering Lab
-
 This repository contains small experiments, notes and implementations related to:
 
 - Clean Code
@@ -30,6 +28,7 @@ class UserService {
     // logic to send email
   }
 }
+
 ```
 ### ✅ Better Example
 ```javascript
@@ -45,3 +44,11 @@ class EmailService {
   }
 }
 ```
+
+## Progress Log
+
+- [x] Single Responsibility Principle (SRP)
+- [ ] Open-Closed Principle (OCP)
+- [ ] Dependency Inversion Principle (DIP)
+- [ ] Clean Architecture basics
+- [ ] Hexagonal Architecture
